@@ -1,0 +1,35 @@
+body {
+    font-family: 'Exo 2', sans-serif;
+}
+
+.card {
+    width: 200px;
+    height: 322px;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.card__title h1 {
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16.34px;
+}
+
+.card__text p {
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 13.62px;
+}
+
+.card__btn button {
+    width: 98px;
+    height: 27px;
+    background: #2797B2;
+    margin-top: 15px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 13.62px;
+    border: none;
+    border-radius: 50px;
+}
